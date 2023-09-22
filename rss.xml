@@ -5,13 +5,8 @@
 	<description>Feed created by FiveFilters.org</description>
 	<link>http://quicka.8222quick.com/</link>
 	<generator>Feed Creator</generator>
-	<atom:link rel="self" href="https://createfeed.fivefilters.org/extract.php?url=quicka.8222quick.com%2F&amp;max=5&amp;order=document&amp;guid=0" />
-	<atom:link rel="related" title="Edit feed with Feed Creator" href="https://createfeed.fivefilters.org/index.php?url=quicka.8222quick.com%2F&amp;max=5&amp;order=document&amp;guid=0"/>
-	<item>
-		<title>Skip to content</title>
-		<link>http://wonpage.co.kr/wonpageproduct/#content</link>
-		<description></description>
-	</item>
+	<atom:link rel="self" href="http://quicka.8222quick.com/" />
+	<atom:link rel="related" title="Edit feed with Feed Creator" href="http://quicka.8222quick.com/"/>
 	<item>
 		<title>인천동구퀵서비스 지점</title>
 		<link>http://quicka.8222quick.com/gu/donggu.html</link>
